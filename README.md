@@ -30,6 +30,13 @@ QA Scrum Master: Led the QA team, facilitating Scrum ceremonies and ensuring eff
 - Add a single product to cart/shopping cart
 - Place an order
 
+## Testing Metrics
+- **Total Test Cases:** 265  
+- **Total Tests Passed:** 248  
+- **Total Tests Failed:** 17  
+- **Pass Rate:** 93.6%  
+- **Fail Rate:** 6.4%  
+
 ## Methodology
 - Developed test cases based on user requirements.
 - Conducted exploratory testing to identify bugs.
